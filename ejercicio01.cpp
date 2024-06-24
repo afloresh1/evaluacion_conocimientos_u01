@@ -29,6 +29,8 @@ int main(){
 			r=op1/op2;
 			cout<<r;
 			break;
+		default:
+			cout<<"No es válido";
 	}
 	return 0;
 }
